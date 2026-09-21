@@ -1,0 +1,1 @@
+this program is an introduction to what the company is capabile of doing, this website shows different features such as changing images when mouse is hovered over it using JavaScript, or showing a text when hovering over a button, it also includes internal links, CSS design
